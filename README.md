@@ -37,3 +37,7 @@ TypeError	:      It occurs when a function and operation is applied in an incorr
 ArithmeticError :           OverflowError
                             ZeroDivisionError
                             FoatingPointError
+                            
+                            
+LookupError    :           KeyError
+                            IndexError
